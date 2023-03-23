@@ -1,0 +1,25 @@
+# File Types
+*.AssemblyAttributes.cs
+*.AssemblyInfo.cs
+*.baml
+*.BuildWithSkipAnalyzers
+*.cache
+*.dll
+*.editorconfig
+*.exe
+*.g.cs
+*.g.i.cs
+*.json
+*.lock
+*.lref
+*.pdb
+*.props
+*.resources
+*.targets
+*.v2
+*.v5.2
+*.vsidx
+
+# Files
+RGB-Background/obj/Debug/net7.0-windows/RGB-Background.csproj.FileListAbsolute.txt
+.vs/RGB-Background/v17/.suo
